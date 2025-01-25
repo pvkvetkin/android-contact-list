@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.github.pvkvetkin.android.android_contact_list"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.github.pvkvetkin.android.android_contact_list"
